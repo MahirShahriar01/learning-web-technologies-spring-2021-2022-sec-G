@@ -1,0 +1,7 @@
+
+
+12| shahriar| 1234| shahriar@gmail.com| 2222-02-09| <br />
+<b>Warning</b>:  Undefined variable $editUser in <b>C:\xampp\htdocs\spring_22\mnj\views\edit.php</b> on line <b>56</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\spring_22\mnj\views\edit.php</b> on line <b>56</b><br />
+| Dhaka

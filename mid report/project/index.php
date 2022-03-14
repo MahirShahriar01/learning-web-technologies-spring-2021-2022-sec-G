@@ -1,4 +1,3 @@
-<?php 
-
-	header('location: managersDesk.php');
+<?php
+    header('location: views/login.php');
 ?>
